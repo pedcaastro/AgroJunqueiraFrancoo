@@ -1,0 +1,15 @@
+flutter_agricultural_control_app/
+├── android/
+├── ios/
+├── lib/
+│   ├── models/
+│   │   └── operation.dart
+│   ├── widgets/
+│   │   ├── operation_form.dart
+│   │   └── operation_list_item.dart
+│   ├── views/
+│   │   ├── home_page.dart
+│   │   ├── operation_details_page.dart
+│   │   └── add_edit_operation_page.dart
+│   └── main.dart
+├── pubspec.yaml
